@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 html,body {
-  font-family: "Roboto", '游ゴシック', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo,'PingFangSC-Regular', sans-serif;
+  font-family: "Roboto",'PingFangSC-Regular','微软雅黑', '游ゴシック', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, sans-serif;
   background:#000;
   -webkit-font-smoothing: antialiased;
   min-height: 100%;
