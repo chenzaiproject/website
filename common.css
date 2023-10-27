@@ -1753,3 +1753,25 @@ display:inline-block
   height: 512px;
   margin-bottom: 30px;
 }
+
+
+.description-layer {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.description-layer .description {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
